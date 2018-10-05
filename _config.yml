@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-include: [".well-known", "zh"]
+include: [".well-known"]
+include: ["zh"]
